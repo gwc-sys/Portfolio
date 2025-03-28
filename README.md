@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Mahesh Raskar Portfolio
+=======
+# Ibrahim Hiarea Portfolio
+>>>>>>> 03de32b (add new readme file)
 
 This repository contains a portfolio project built using React.js and Vite. The portfolio showcases my skills, projects, and experience as a developer.
 
@@ -12,6 +16,7 @@ This repository contains a portfolio project built using React.js and Vite. The 
 - Contact Information: Provide a way for visitors to get in touch with you, such as through a contact form or social media links.
 
 ## Installation
+<<<<<<< HEAD
 
 1. Clone the repository.
 2. Navigate to the project directory.
@@ -44,3 +49,36 @@ Follow the deployment instructions provided by your chosen platform to publish y
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository.
 
+=======
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies: `npm install`.
+
+## Usage
+
+1. Start the development server: `npm run dev`.
+2. Open your browser and visit `http://localhost:3000` to see the portfolio.
+
+## Customization
+
+You can customize the portfolio to fit your needs:
+
+1. Edit Content: Update the content in the components to reflect your own projects, skills, experience, and contact information.
+2. Styling: Modify the styles in the CSS or component files to match your preferred design.
+3. Add Sections: You can add additional sections to the portfolio, such as a blog section or testimonials.
+
+## Deployment
+
+To deploy the portfolio, you can use any hosting platform that supports static websites. Some popular options include:
+
+- Netlify
+- Vercel
+- GitHub Pages
+
+Follow the deployment instructions provided by your chosen platform to publish your portfolio online.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository.
+>>>>>>> 03de32b (add new readme file)
